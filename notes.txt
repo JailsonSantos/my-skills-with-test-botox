@@ -1,0 +1,8 @@
+# Install TypeScript (Add in projects)
+- yarn add -D typescript @types/react @types/react-native
+
+# Consult documentation for language
+- https://devdocs.io/
+
+# Tools for debugging
+- https://fbflipper.com/
